@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1530092110 source:d:\c++\a010_因數分解\main.cpp
+	<iostream>
+	<cmath>
+
